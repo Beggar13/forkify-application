@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application GM",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beggar13/forkify-application.git"
+  },
+  "author": "George M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beggar13/forkify-application/issues"
+  },
+  "homepage": "https://github.com/Beggar13/forkify-application#readme",
+  "dependencies": {
+    "parcel": "^2.5.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0"
+  }
+}
